@@ -49,5 +49,5 @@ This application is designed to:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Koushik21bk/REAL-TIME-QR-CODE-BASED-SMART-MEDICINE-SYSTEM.git
+   git clone https://github.com/Koushik21bk/REAL-TIME-QR-CODE-BASED-SMART-MEDICINE-SYSTEM
    
